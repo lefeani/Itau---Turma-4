@@ -122,4 +122,4 @@ Remover Cliente:
 
 A todos os professores que contribuíram com o nosso aprendizado nesta jornada com paciência e atenção.
 
-Ao Banco Itaú que acreditou no nosso potencial e nos proporcionou a realização desse sonho de fazer parte do time de itubers! :heartpulse:
+Ao Banco Itaú que acreditou no nosso potencial e nos proporcionou a realização desse sonho de fazer parte do time de itubers!🤍
