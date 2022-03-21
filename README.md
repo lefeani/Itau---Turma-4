@@ -67,7 +67,7 @@ Atualizar dados de um Cliente:
 
     Atual: Ag: 0000 Conta: 00000-0 Cliente: Nico...
     
-    Novo alterar: Ag: 0001 Conta: 00000-1 Cliente: nefes...
+    Novo alterar: Ag: 0001 Conta: 00000-1 Cliente: nicol...
   
 Remover Cliente:
 
@@ -122,4 +122,4 @@ Remover Cliente:
 
 A todos os professores que contribuíram com o nosso aprendizado nesta jornada com paciência e atenção.
 
-Ao Banco Itaú que acreditou no nosso potencial e nos proporcionou a realização desse sonho de fazer parte do time de itubers!🤍
+Ao Banco Itaú que acreditou no nosso potencial e nos proporcionou a realização desse sonho de fazer parte do time de itubers! 🤍
